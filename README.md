@@ -1,4 +1,4 @@
-# meu-tema-wp
+# Meu Tema WP
 Tema criando para wordpress, utilizando bootstrap.
 
 Exemplo Configurações pra Home:
